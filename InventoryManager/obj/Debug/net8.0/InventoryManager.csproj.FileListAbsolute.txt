@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.exe
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.deps.json
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.runtimeconfig.json
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.dll
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0\InventoryManager.pdb
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfo.cs
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.dll
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\refint\InventoryManager.dll
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.pdb
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\InventoryManager.genruntimeconfig.cache
+C:\Users\mathe\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0\ref\InventoryManager.dll
